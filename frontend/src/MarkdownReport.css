@@ -1,0 +1,39 @@
+.report.markdown-report {
+  white-space: normal;
+  line-height: 1.75;
+}
+
+.markdown-report > :first-child {
+  margin-top: 0;
+}
+
+.markdown-report > :last-child {
+  margin-bottom: 0;
+}
+
+.markdown-report h1,
+.markdown-report h2,
+.markdown-report h3 {
+  margin: 1.5rem 0 0.6rem;
+  color: #294b39;
+  line-height: 1.35;
+}
+
+.markdown-report h1 { font-size: 1.35rem; }
+.markdown-report h2 { font-size: 1.2rem; }
+.markdown-report h3 { font-size: 1.05rem; }
+
+.markdown-report p,
+.markdown-report ul,
+.markdown-report ol {
+  margin: 0.6rem 0 1rem;
+}
+
+.markdown-report ul,
+.markdown-report ol {
+  padding-left: 1.5rem;
+}
+
+.markdown-report li + li {
+  margin-top: 0.35rem;
+}
