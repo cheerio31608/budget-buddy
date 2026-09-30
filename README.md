@@ -1,10 +1,14 @@
 # Budget Buddy
 
+<img width="1872" height="937" alt="image" src="https://github.com/user-attachments/assets/83b83253-3be6-45e0-8820-52aa52e3f422" />
+
+
 거래를 기록하고 CSV 가계부를 분석해 소비 흐름을 살펴보는 웹 가계부입니다. 잔액과 통계는 서버에서 계산하고, AI는 집계된 내용을 이해하기 쉽게 설명합니다.
 
 ## 배포 사이트
 
 [Budget Buddy 사용해보기](https://budget-buddy-jet-chi.vercel.app)
+** 최초 회원가입/로그인 시 시간이 다소 소요될 수 있습니다 **
 
 ## 주요 기능
 
