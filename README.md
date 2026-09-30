@@ -20,11 +20,11 @@
 
 ## 기술 스택
 
-React 
-TypeScript
-Java 17
-Spring Boot · PostgreSQL · Docker
-Supabase · Vercel · Render
+- React 
+- TypeScript
+- Java 17
+- Spring Boot · PostgreSQL · Docker
+- Supabase · Vercel · Render
 
 ## 트러블슈팅
 
