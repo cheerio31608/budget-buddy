@@ -20,7 +20,11 @@
 
 ## 기술 스택
 
-React, TypeScript, Vite · Java 17, Spring Boot · PostgreSQL, Supabase, Flyway · Gemini API · Vercel, Render, Docker
+React 
+TypeScript
+Java 17
+Spring Boot · PostgreSQL · Docker
+Supabase · Vercel · Render
 
 ## 트러블슈팅
 
